@@ -20,4 +20,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charan-happy&show_icons=true&locale=en" alt="charan-happy" /></p>
 
 
+<br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=charan-happy&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>

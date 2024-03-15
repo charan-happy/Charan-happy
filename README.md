@@ -5,6 +5,14 @@
 
 - 📫 How to reach me **nagacharan4286@gmail.com**
 
+#### 🔖 Random Quote or Fun-Fact
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝“We need above all to know about changes; no one wants or needs to be reminded 16 hours a day that his shoes are on.”— David Hubel   ❞</i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+            
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nagacharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nagacharan" height="30" width="40" /></a>

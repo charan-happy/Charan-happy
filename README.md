@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working as a Senior Systems Associate<br>👯 I’m looking to collaborate on Cloud content creation Especially on projects !!<br>💬 If you have a moment, Let's discuss about cloud computing <br>
+<h1 align="center">Hi 👋, I'm Nagacharan 💫</h1>
+<h3 align="center">A passionate DevopsEngineer from India 🔭</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charan-happy&label=Profile%20views&color=0e75b6&style=flat" alt="charan-happy" /> </p>
+
+- 📫 How to reach me **nagacharan4286@gmail.com**
+
 
 
 ## 🌐 Socials:

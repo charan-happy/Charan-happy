@@ -27,3 +27,7 @@
 
 
 Thanks for Visiting My Profile.
+
+![ThanksThankYouGIF](https://github.com/Devopsdelight-T/devopsdelight-T/assets/170061144/d6a923ef-0f18-4ba1-895f-6805353ceab7)
+
+![ComeBackSoonOkayWandaSykesGIF](https://github.com/Devopsdelight-T/devopsdelight-T/assets/170061144/2d81ac51-7bf0-4f04-bfb6-0161c72c2648)

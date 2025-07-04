@@ -37,7 +37,9 @@ Currently Working on [Ecommerce-MicroService-Application-DevOps-Implementation](
 
 ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD) 
 
+# My Work - Documentation
  ## [Click here to see My Devops Project Work](https://github.com/charan-happy/DevopsWithCharan/tree/main/projects)
+ ## [click here to see my Tech Learnings Documentation](https://charan-techjourney.gitbook.io/)
 
 ## [Click here to see My AWS Cloud Projects Work](https://github.com/charan-happy/30-days-30-AWS-projects/blob/main/README.md)
  
